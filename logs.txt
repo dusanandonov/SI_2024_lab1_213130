@@ -1,0 +1,37 @@
+commit 1c8d56f4b476774bc09701e6b62913e5a9198a83 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: dusanandonov <166114429+dusanandonov@users.noreply.github.com>
+Date:   Sun Apr 14 20:35:33 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+            "Call method makeBigStringsFrom in main class"
+
+commit 2706433a459d7606aa1b88224af17d7fdad97e7d
+Author: dusanandonov <166114429+dusanandonov@users.noreply.github.com>
+Date:   Sun Apr 14 20:34:04 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit e62d1d98cc67d36bfa872039359c7d690cf290f7 (origin/bug1, bug1)
+Author: dusanandonov <166114429+dusanandonov@users.noreply.github.com>
+Date:   Sun Apr 14 20:34:44 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 9aad81ced590c1590642c8fe7f6cbc38a6ec0df1
+Author: dusanandonov <166114429+dusanandonov@users.noreply.github.com>
+Date:   Sun Apr 14 20:33:29 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 54126b757f6a7e6f4f01e1df90a13c2051239de5
+Author: dusanandonov <166114429+dusanandonov@users.noreply.github.com>
+Date:   Sun Apr 14 20:32:35 2024 +0200
+
+    Add starter code
+
+commit c0882dfc2cf5509e3604e3dd499a59b15081f552
+Author: dusanandonov <166114429+dusanandonov@users.noreply.github.com>
+Date:   Sun Apr 14 20:32:11 2024 +0200
+
+    Initial commit
